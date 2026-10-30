@@ -1,0 +1,17 @@
+{
+  "sensor_noise_3.0": {
+    "csp_lda": 0.991,
+    "csp_sd": 0.009695359714832657,
+    "channel_logpower_lda": 0.865
+  },
+  "sensor_noise_6.0": {
+    "csp_lda": 0.95,
+    "csp_sd": 0.03301514803843835,
+    "channel_logpower_lda": 0.792
+  },
+  "sensor_noise_10.0": {
+    "csp_lda": 0.8560000000000001,
+    "csp_sd": 0.044090815370097264,
+    "channel_logpower_lda": 0.696
+  }
+}
